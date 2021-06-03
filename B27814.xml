@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick on Their Royal Highnesses, and congratulating his return from Scotland·</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27814</idno><idno type="EEBO-CITATION">99828604</idno>
+  <idno type="VID">173149</idno>
+  <idno type="EEBO-PROQUEST">2240869775</idno>
+  
+            <idno type="STC">Wing P265</idno>
+            <idno type="STC">ESTC R216887</idno>
+            <idno type="PROQUEST">99828604</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828604e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick on Their Royal Highnesses, and congratulating his return from Scotland·</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>re-printed anno Dom. M. DC. LXXXII. [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173149:1"/>
+            <p> A PANEGYRICK ON THEIR ROYAL HIGHNESSES, And Congratulating His RETURN FROM SCOTLAND.</p>
+            <p>
+               <hi>EDINBƲRGH,</hi> Re-printed, <hi>Anno-Dom.</hi> M. D. C. LXXXII.</p>
+            <pb facs="tcp:173149:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:173149:2"/>
+            <head>A PANEGYRICK ON THEIR ROYAL HIGHNESSES.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen the Most High Eternal Son of God</l>
+               <l>Through fam'd <hi>Judea</hi> in Procession rode,</l>
+               <l>The Loyal <hi>Publican,</hi> with zealous hast,</l>
+               <l>Clim'b up a Tree to view him as he past,</l>
+               <l>And with a look that did his Joy relate.</l>
+               <l>The Mighty Saviour did congratulate:</l>
+               <l>So 'mongst the Crowds that with Impatience strove</l>
+               <l>T' express their Fealty and faithful Love,</l>
+               <l>I and my throbbing heart with equal flames</l>
+               <l>Panted and prest to greet the Godlike <hi>JAMES.</hi>
+               </l>
+               <l>Welcome then, Mighty SIR; welcome as Peace</l>
+               <l>To conquer'd Nations, or to sick Men Ease;</l>
+               <l>Welcome, as what you bring us, <hi>Loyalty,</hi>
+               </l>
+               <l>A fruit which in our Isle we rarely see:</l>
+               <l>In th' barren North it blooms, to Storms expos'd;</l>
+               <l>But in our Sunny Climate never grows:</l>
+               <l>Here fertile Nature makes the Commons Kings,</l>
+               <l>And from her fatness rank Rebellion springs:</l>
+               <l>
+                  <hi>Dam'd lust of English-men, that ne're repented</hi>
+               </l>
+               <l>
+                  <hi>Their Treasons, nor with Blessings were contented.</hi>
+               </l>
+               <pb n="2" facs="tcp:173149:3"/>
+               <l> Black was the Day, and blasted was the Year,</l>
+               <l>When the curst Factious, full of wretched fear.</l>
+               <l>Sought the <hi>true</hi> Heir of <hi>England</hi> to exclude,</l>
+               <l>Only because He was too <hi>great,</hi> and <hi>good,</hi>
+               </l>
+               <l>Two Epithetes that never yet could suit</l>
+               <l>The sordid Mind of your true English Brute:</l>
+               <l>Loud Tempest roar'd, as if design'd to cross</l>
+               <l>The Royal Mandate, and not let Him pass,</l>
+               <l>Whilst weeping Showers seem'd to mourn our loss:</l>
+               <l>And as each Element then bore a part</l>
+               <l>In grief, even so did every Honest Heart.</l>
+               <l>But now the happy hours are doubly bless't,</l>
+               <l>The Land with the full Store of Heaven possess't;</l>
+               <l>The Season smiles, and each propitious Ray</l>
+               <l>For His return their secret Joy display;</l>
+               <l>The flowers that did in private Closets keep,</l>
+               <l>And during th' Winter of His Absence sleep,</l>
+               <l>Bloom out, and a gay fragant Robe put on,</l>
+               <l>To bless and welcome in the RISING SUN;</l>
+               <l>
+                  <hi>Laetamur</hi>
+                  <note n="*" place="margin">The Motto of the Medal.</note> is the Word, a word which late</l>
+               <l>As mighty Hopes, did mighty Joy create,</l>
+               <l>When the fam'd <hi>Motto</hi> with applause was put</l>
+               <l>To the Effigie of the <hi>Grand Patriot,</hi>
+               </l>
+               <l>Nearest their hearts, where late their <hi>Georges</hi> hung,</l>
+               <l>The pale-fac't Medall with its Silver tongue</l>
+               <l>Was plac't, whilst every Wearer still exprest</l>
+               <l>His Joy to harbour there so fam'd a Guest.</l>
+               <l>The Wretch that stampt it got immortal fame;</l>
+               <l>'Twas coyn'd by stealth, like Groats at <hi>Brumicham;</hi>
+               </l>
+               <pb n="3" facs="tcp:173149:3"/>
+               <l> Whilst each Possessour with exalted voice</l>
+               <l>Cryes, <hi>England's sav'd, and now Let us Rejoyce.</hi>
+               </l>
+               <l>But though Seditious Tenets they pursue,</l>
+               <l>We have a Cause of joy solid and true</l>
+               <l>And therefore let us cry <hi>Laetamur</hi> too.</l>
+               <l>For Mighty <hi>YORK</hi>'S return'd, return'd to Raign.</l>
+               <l>O're hearts, and move in His Great Sphere again:</l>
+               <l>'Tis in his Face you see the RISING SUN,</l>
+               <l>T'other's a Comet blazing O're the Town,</l>
+               <l>Portending Mischiefs seeming to explain</l>
+               <l>The <hi>former</hi> Tragick Scene design'd <hi>again.</hi>
+               </l>
+               <l>Fly then ye Loyal Natives, fly with zeal,</l>
+               <l>Embrace His Knees, and your true Joy reveal;</l>
+               <l>Prove your affection to your Injur'd Prince,</l>
+               <l>Give him your Hearts, for you had his long since:</l>
+               <l>Give Him your Hearts, oppose the Rebel Power,</l>
+               <l>And never part with your Lov'd HEROE more.</l>
+            </lg>
+            <lg>
+               <l>And hail Bright PRINCESS, best of thy fair Kind,</l>
+               <l>An Angel's Body with an Angel's Mind,</l>
+               <l>Beauteous as are the Virgin Saints above,</l>
+               <l>That sit and smile on the right hand of <hi>Jove,</hi>
+               </l>
+               <l>And good, as the first state Heav'n form'd 'em in,</l>
+               <l>E're that Angelick Sex knew how to sin,</l>
+               <l>How when She comes shall we our crimes attone?</l>
+               <l>How shall we meet the Justice of her Frown,</l>
+               <l>That doing no offence was forc't away,</l>
+               <l>With Her dear Lord, a cruel Fate t' obey,</l>
+               <l>And Sacrifice Her Joy, Her Peace and Fame,</l>
+               <l>To a curst Branded thing without a Name?</l>
+               <pb n="4" facs="tcp:173149:4"/>
+               <l> Down her fair face the liquid Treasures rowld;</l>
+               <l>Then taking on her ROYAL PARTNER hold,</l>
+               <l>
+                  <hi>England farewell,</hi> She cry'd, <hi>thou hated shore,</hi>
+               </l>
+               <l>
+                  <hi>And may I never see thy baseness more!</hi>
+               </l>
+               <l>But she comes back, and nobly may despise</l>
+               <l>The Pigmy Malice of her Enemies;</l>
+               <l>Disdain and Anger in Her forehead sit,</l>
+               <l>Yet both so calm'd and temper'd by Her wit,</l>
+               <l>That with a modest smile She strives t'oppose</l>
+               <l>Revenge, and onely pities all her foes.</l>
+               <l>Return then and forgive, and may Your <hi>Name</hi>
+               </l>
+               <l>Charm the wide Globe, as does your HEROES <hi>Fame:</hi>
+               </l>
+               <l>Long may ye love, and still may ye appear</l>
+               <l>Teeming, as to our joy you prove this Year.</l>
+               <l>Your Pregnant Veins are framing wondrous things,</l>
+               <l>Oh glorious Passion that creates young Kings!</l>
+               <l>The Illustrious Infant struggles in the Womb,</l>
+               <l>As if he knew his Royal fate to come,</l>
+               <l>And silently mourns, that so long a space</l>
+               <l>'Twill be, e're he begins his Glorious Race:</l>
+               <l>But when as the Divinest Gift of Heaven,</l>
+               <l>The <hi>Princely Babe</hi> is for our Comfort given,</l>
+               <l>May every heart conspire with every tongue</l>
+               <l>T' implore his years may be renown'd and long,</l>
+               <l>That he may merit his brave Fathers Name</l>
+               <l>And Rival Vertue with his Mothers Fame.</l>
+            </lg>
+            <lg>
+               <l>Methinks I see our great AUGUSTUS stand,</l>
+               <l>With the fair PRINCESS smiling in His Hand,</l>
+               <l>High Grandeur mixt With Joy adorns His Face,</l>
+               <l>Whilst blushing Duty Hers does sweetly grace:</l>
+               <pb n="5" facs="tcp:173149:4"/>
+               <l> Their Eyes are fixt and mingling Glories seem,</l>
+               <l>Like the Sun's Rayes Reflecting on a Jem;</l>
+               <l>His Awfull Light then on His BROTHER shines,</l>
+               <l>Who with a silent Modesty inclines</l>
+               <l>To hear his welcome, and with humble grace</l>
+               <l>Fixing His Eyes upon His Monarch's Face,</l>
+               <l>His willing Knees with Loyal duty bend</l>
+               <l>To His dear <hi>King,</hi> His <hi>Brother,</hi> and His <hi>Friend,</hi>
+               </l>
+               <l>Who in His Arms do's the Lov'd Favourite hold,</l>
+               <l>And speaks a gracious welcome from His soul.</l>
+               <l>Thrice happy <hi>Scotland,</hi> well didst thou begin</l>
+               <l>To make attonement for thy former sin,</l>
+               <l>When thou with Joy a Vertue didst Embrace:</l>
+               <l>By brooding Factions driven from this place,</l>
+               <l>Well was the much-wrong'd <hi>Prince</hi> receiv'd by thee,</l>
+               <l>And well hast thou reform'd thy Loyalty:</l>
+               <l>Yet to His Goodness thou thy Fame do'st owe,</l>
+               <l>For thou hadst faithless bin had he been so:</l>
+               <l>But as the <hi>Thracian</hi> Bard, with charming strains,</l>
+               <l>Drew the Wild Savages from Woods and Plains,</l>
+               <l>Controll'd their Brutish Rage where e're he came,</l>
+               <l>And made the fiercest Bears and Tigers tame;</l>
+               <l>So Mighty Prince Thy Vertue did oppose</l>
+               <l>The close designs and Malice of thy Foes,</l>
+               <l>And made a Nation, fam'd for Treachery,</l>
+               <l>Bow to thy Loyal Principles and Thee,</l>
+               <l>Whilst <hi>England</hi>'s left with its <hi>King killing</hi> Race,</l>
+               <l>A Nest of Rebels, as it ever was.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
